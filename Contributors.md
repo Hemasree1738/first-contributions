@@ -1957,6 +1957,7 @@ guru
 - [Akshansh Thakur](https://github.com/athakur3)
 - [Venkatesh ReddyCharla] (https://github.com/charlarcv)
 - [Harsh Verma](https://github.com/twilight-debugger)
+- [Hemasree](https://github.com/Hemasree1738)
 - [Vishnupriya Shisode](https://github.com/vishnupriya-shisode)
 - [Varad Kottawar](https://github.com/Varad02)
 - [Amisha Kumari](https://github.com/amisha6870)
