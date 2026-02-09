@@ -1952,6 +1952,7 @@ guru
 - [Charles Gregorski](https://github.com/gregorskic-debug) - How's it going GitHub?
 - [Sunil](https://github.com/Sunil0620)
 - [João Otávio Schonarth](https://github.com/joschonarth)
+- [Hemasree](https://github.com/Hemasree1738)
 - [Taiwo Okikiola](https://github.com/taiwookikiola1-max)
 - [Sabyasachi Sarangi](https://github.com/Sabyasachi2125)
 - [Akshansh Thakur](https://github.com/athakur3)
@@ -1960,7 +1961,6 @@ guru
 - [Vishnupriya Shisode](https://github.com/vishnupriya-shisode)
 - [Varad Kottawar](https://github.com/Varad02)
 - [Amisha Kumari](https://github.com/amisha6870)
-- [Hemasree](https://github.com/Hemasree1738)
 - [Hitto209](https://github.com/Hitto209) - Goodmorning Starshine the earth says hello. 
 - [Rúben Leonardo](https://github.com/rleonardo93)
 - [Ozan Kenan Güngör](https://github.com/ozankenangungor)
